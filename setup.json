@@ -36,6 +36,13 @@
 				"live": true,
 				"required": false,
 				"rich_text": true
+			},
+			"module_field_109_6": {
+				"name": "Video URL",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
 			}
 		}
 	}
