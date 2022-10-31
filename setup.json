@@ -57,7 +57,7 @@
 				"live": true,
 				"required": false,
 				"rich_text": true,
-				"datasource_id": "module_8",
+				"datasource_id": "module_8"
 
 			}
 		}
