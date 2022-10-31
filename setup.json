@@ -43,6 +43,22 @@
 				"live": true,
 				"required": false,
 				"rich_text": true
+			},
+			"module_field_109_7": {
+				"name": "Description",
+				"type": "input_text",
+				"live": true,
+				"required": false,
+				"rich_text": true
+			},
+			"module_field_109_8": {
+				"name": "Testimonial",
+				"type": "datasource_multi",
+				"live": true,
+				"required": false,
+				"rich_text": true,
+				"datasource_id": "module_8",
+
 			}
 		}
 	}
