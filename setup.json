@@ -11,6 +11,7 @@
 		"sz_updated": true,
 		"sz_display_type": "404",
 		"use_standard_fields": true,
+		"marketplace": true,
 		"system_fields": {
 			"module_field_109_1": {
 				"name": "Title",
